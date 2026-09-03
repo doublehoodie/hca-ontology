@@ -1,0 +1,417 @@
+O*NET-SOC Code,Title,Element ID,Element Name,Scale ID,Scale Name,Data Value,N,Standard Error,Lower CI Bound,Upper CI Bound,Recommend Suppress,Not Relevant,Date,Domain Source
+15-1212.00,Information Security Analysts,1.A.1.a.1,Oral Comprehension,IM,Importance,4.00,8,0.0000,4.0000,4.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.a.1,Oral Comprehension,LV,Level,4.25,8,0.1637,3.9292,4.5708,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.a.2,Written Comprehension,IM,Importance,4.00,8,0.0000,4.0000,4.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.a.2,Written Comprehension,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.a.3,Oral Expression,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.a.3,Oral Expression,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.a.4,Written Expression,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.a.4,Written Expression,LV,Level,4.00,8,0.0000,4.0000,4.0000,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.1,Fluency of Ideas,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.1,Fluency of Ideas,LV,Level,3.75,8,0.2500,3.2600,4.2400,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.2,Originality,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.2,Originality,LV,Level,3.25,8,0.1637,2.9292,3.5708,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.3,Problem Sensitivity,IM,Importance,4.00,8,0.0000,4.0000,4.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.3,Problem Sensitivity,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.4,Deductive Reasoning,IM,Importance,4.00,8,0.0000,4.0000,4.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.4,Deductive Reasoning,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.5,Inductive Reasoning,IM,Importance,4.00,8,0.0000,4.0000,4.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.5,Inductive Reasoning,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.6,Information Ordering,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.6,Information Ordering,LV,Level,3.88,8,0.1250,3.6300,4.1200,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.7,Category Flexibility,IM,Importance,3.50,8,0.1890,3.1296,3.8704,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.b.7,Category Flexibility,LV,Level,3.62,8,0.2631,3.1094,4.1406,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.c.1,Mathematical Reasoning,IM,Importance,2.75,8,0.1637,2.4292,3.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.c.1,Mathematical Reasoning,LV,Level,2.88,8,0.1250,2.6300,3.1200,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.c.2,Number Facility,IM,Importance,2.25,8,0.1637,1.9292,2.5708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.c.2,Number Facility,LV,Level,2.75,8,0.2500,2.2600,3.2400,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.d.1,Memorization,IM,Importance,2.25,8,0.1637,1.9292,2.5708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.d.1,Memorization,LV,Level,2.75,8,0.1637,2.4292,3.0708,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.e.1,Speed of Closure,IM,Importance,2.88,8,0.1250,2.6300,3.1200,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.e.1,Speed of Closure,LV,Level,3.00,8,0.1890,2.6296,3.3704,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.e.2,Flexibility of Closure,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.e.2,Flexibility of Closure,LV,Level,3.50,8,0.1890,3.1296,3.8704,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.e.3,Perceptual Speed,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.e.3,Perceptual Speed,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.f.1,Spatial Orientation,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.f.1,Spatial Orientation,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.f.2,Visualization,IM,Importance,2.75,8,0.1637,2.4292,3.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.f.2,Visualization,LV,Level,3.00,8,0.1890,2.6296,3.3704,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.g.1,Selective Attention,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.g.1,Selective Attention,LV,Level,3.12,8,0.1250,2.8800,3.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.g.2,Time Sharing,IM,Importance,2.75,8,0.1637,2.4292,3.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.1.g.2,Time Sharing,LV,Level,2.88,8,0.1250,2.6300,3.1200,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.a.1,Arm-Hand Steadiness,IM,Importance,2.00,8,0.1890,1.6296,2.3704,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.a.1,Arm-Hand Steadiness,LV,Level,1.75,8,0.2500,1.2600,2.2400,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.a.2,Manual Dexterity,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.a.2,Manual Dexterity,LV,Level,1.62,8,0.2631,1.1094,2.1406,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.a.3,Finger Dexterity,IM,Importance,2.38,8,0.1830,2.0164,2.7336,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.a.3,Finger Dexterity,LV,Level,2.12,8,0.1250,1.8800,2.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.1,Control Precision,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.1,Control Precision,LV,Level,1.50,8,0.2673,0.9762,2.0238,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.2,Multilimb Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.2,Multilimb Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.3,Response Orientation,IM,Importance,1.12,8,0.1250,1.0000,1.3700,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.3,Response Orientation,LV,Level,0.12,8,0.1250,0.0000,0.3700,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.4,Rate Control,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.b.4,Rate Control,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.c.1,Reaction Time,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.c.1,Reaction Time,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.c.2,Wrist-Finger Speed,IM,Importance,1.38,8,0.1830,1.0164,1.7336,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.c.2,Wrist-Finger Speed,LV,Level,0.38,8,0.1830,0.0164,0.7336,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.c.3,Speed of Limb Movement,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.2.c.3,Speed of Limb Movement,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.1,Static Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.1,Static Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.2,Explosive Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.2,Explosive Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.3,Dynamic Strength,IM,Importance,1.38,8,0.1830,1.0164,1.7336,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.3,Dynamic Strength,LV,Level,0.50,8,0.2673,0.0000,1.0238,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.4,Trunk Strength,IM,Importance,1.62,8,0.1830,1.2664,1.9836,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.a.4,Trunk Strength,LV,Level,1.00,8,0.3780,0.2592,1.7408,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.b.1,Stamina,IM,Importance,1.12,8,0.1250,1.0000,1.3700,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.b.1,Stamina,LV,Level,0.12,8,0.1250,0.0000,0.3700,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.1,Extent Flexibility,IM,Importance,1.62,8,0.1830,1.2664,1.9836,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.1,Extent Flexibility,LV,Level,0.75,8,0.2500,0.2600,1.2400,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.2,Dynamic Flexibility,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.2,Dynamic Flexibility,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.3,Gross Body Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.3,Gross Body Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.4,Gross Body Equilibrium,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.3.c.4,Gross Body Equilibrium,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.1,Near Vision,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.1,Near Vision,LV,Level,3.88,8,0.1250,3.6300,4.1200,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.2,Far Vision,IM,Importance,2.75,8,0.1637,2.4292,3.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.2,Far Vision,LV,Level,2.75,8,0.1637,2.4292,3.0708,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.3,Visual Color Discrimination,IM,Importance,2.12,8,0.2266,1.6809,2.5691,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.3,Visual Color Discrimination,LV,Level,1.88,8,0.2950,1.2967,2.4533,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.4,Night Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.4,Night Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.5,Peripheral Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.5,Peripheral Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.6,Depth Perception,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.6,Depth Perception,LV,Level,0.75,8,0.1637,0.4292,1.0708,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.7,Glare Sensitivity,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.a.7,Glare Sensitivity,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.1,Hearing Sensitivity,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.1,Hearing Sensitivity,LV,Level,1.75,8,0.2500,1.2600,2.2400,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.2,Auditory Attention,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.2,Auditory Attention,LV,Level,1.50,8,0.3273,0.8584,2.1416,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.3,Sound Localization,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.3,Sound Localization,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.4,Speech Recognition,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.4,Speech Recognition,LV,Level,3.12,8,0.1250,2.8800,3.3700,N,N,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.5,Speech Clarity,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,08/2018,Analyst
+15-1212.00,Information Security Analysts,1.A.4.b.5,Speech Clarity,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2018,Analyst
+15-1242.00,Database Administrators,1.A.1.a.1,Oral Comprehension,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.a.1,Oral Comprehension,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.a.2,Written Comprehension,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.a.2,Written Comprehension,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.a.3,Oral Expression,IM,Importance,3.50,8,0.1890,3.1296,3.8704,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.a.3,Oral Expression,LV,Level,4.25,8,0.1637,3.9292,4.5708,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.a.4,Written Expression,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.a.4,Written Expression,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.1,Fluency of Ideas,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.1,Fluency of Ideas,LV,Level,3.62,8,0.2631,3.1094,4.1406,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.2,Originality,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.2,Originality,LV,Level,3.50,8,0.1890,3.1296,3.8704,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.3,Problem Sensitivity,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.3,Problem Sensitivity,LV,Level,3.88,8,0.1250,3.6300,4.1200,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.4,Deductive Reasoning,IM,Importance,4.00,8,0.0000,4.0000,4.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.4,Deductive Reasoning,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.5,Inductive Reasoning,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.5,Inductive Reasoning,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.6,Information Ordering,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.6,Information Ordering,LV,Level,4.12,8,0.1250,3.8800,4.3700,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.7,Category Flexibility,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.b.7,Category Flexibility,LV,Level,3.88,8,0.1250,3.6300,4.1200,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.c.1,Mathematical Reasoning,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.c.1,Mathematical Reasoning,LV,Level,3.12,8,0.1250,2.8800,3.3700,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.c.2,Number Facility,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.c.2,Number Facility,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.d.1,Memorization,IM,Importance,2.50,8,0.1890,2.1296,2.8704,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.d.1,Memorization,LV,Level,2.62,8,0.1830,2.2664,2.9836,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.e.1,Speed of Closure,IM,Importance,2.88,8,0.1250,2.6300,3.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.e.1,Speed of Closure,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.e.2,Flexibility of Closure,IM,Importance,3.25,8,0.1637,2.9292,3.5708,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.e.2,Flexibility of Closure,LV,Level,3.38,8,0.1830,3.0164,3.7336,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.e.3,Perceptual Speed,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.e.3,Perceptual Speed,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.f.1,Spatial Orientation,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.f.1,Spatial Orientation,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.f.2,Visualization,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.f.2,Visualization,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.g.1,Selective Attention,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.g.1,Selective Attention,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.g.2,Time Sharing,IM,Importance,2.25,8,0.1637,1.9292,2.5708,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.1.g.2,Time Sharing,LV,Level,2.00,8,0.0000,2.0000,2.0000,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.a.1,Arm-Hand Steadiness,IM,Importance,2.00,8,0.0000,2.0000,2.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.a.1,Arm-Hand Steadiness,LV,Level,1.88,8,0.1250,1.6300,2.1200,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.a.2,Manual Dexterity,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.a.2,Manual Dexterity,LV,Level,1.12,8,0.2950,0.5467,1.7033,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.a.3,Finger Dexterity,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.a.3,Finger Dexterity,LV,Level,1.62,8,0.3750,0.8900,2.3600,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.1,Control Precision,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.1,Control Precision,LV,Level,1.50,8,0.2673,0.9762,2.0238,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.2,Multilimb Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.2,Multilimb Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.3,Response Orientation,IM,Importance,1.38,8,0.1830,1.0164,1.7336,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.3,Response Orientation,LV,Level,0.38,8,0.1830,0.0164,0.7336,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.4,Rate Control,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.b.4,Rate Control,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.c.1,Reaction Time,IM,Importance,1.12,8,0.1250,1.0000,1.3700,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.c.1,Reaction Time,LV,Level,0.12,8,0.1250,0.0000,0.3700,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.c.2,Wrist-Finger Speed,IM,Importance,1.50,8,0.1890,1.1296,1.8704,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.c.2,Wrist-Finger Speed,LV,Level,0.50,8,0.1890,0.1296,0.8704,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.c.3,Speed of Limb Movement,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.2.c.3,Speed of Limb Movement,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.1,Static Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.1,Static Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.2,Explosive Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.2,Explosive Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.3,Dynamic Strength,IM,Importance,1.25,8,0.1637,1.0000,1.5708,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.3,Dynamic Strength,LV,Level,0.25,8,0.1637,0.0000,0.5708,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.4,Trunk Strength,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.a.4,Trunk Strength,LV,Level,1.12,8,0.2950,0.5467,1.7033,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.b.1,Stamina,IM,Importance,1.12,8,0.1250,1.0000,1.3700,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.b.1,Stamina,LV,Level,0.12,8,0.1250,0.0000,0.3700,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.1,Extent Flexibility,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.1,Extent Flexibility,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.2,Dynamic Flexibility,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.2,Dynamic Flexibility,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.3,Gross Body Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.3,Gross Body Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.4,Gross Body Equilibrium,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.3.c.4,Gross Body Equilibrium,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.1,Near Vision,IM,Importance,3.62,8,0.1830,3.2664,3.9836,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.1,Near Vision,LV,Level,3.75,8,0.1637,3.4292,4.0708,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.2,Far Vision,IM,Importance,2.62,8,0.1830,2.2664,2.9836,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.2,Far Vision,LV,Level,2.75,8,0.1637,2.4292,3.0708,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.3,Visual Color Discrimination,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.3,Visual Color Discrimination,LV,Level,1.75,8,0.2500,1.2600,2.2400,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.4,Night Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.4,Night Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.5,Peripheral Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.5,Peripheral Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.6,Depth Perception,IM,Importance,1.38,8,0.1830,1.0164,1.7336,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.6,Depth Perception,LV,Level,0.38,8,0.1830,0.0164,0.7336,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.7,Glare Sensitivity,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.a.7,Glare Sensitivity,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.1,Hearing Sensitivity,IM,Importance,1.62,8,0.1830,1.2664,1.9836,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.1,Hearing Sensitivity,LV,Level,1.00,8,0.3273,0.3584,1.6416,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.2,Auditory Attention,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.2,Auditory Attention,LV,Level,1.75,8,0.2500,1.2600,2.2400,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.3,Sound Localization,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.3,Sound Localization,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.4,Speech Recognition,IM,Importance,3.25,8,0.1637,2.9292,3.5708,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.4,Speech Recognition,LV,Level,3.25,8,0.1637,2.9292,3.5708,N,N,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.5,Speech Clarity,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,08/2023,Analyst
+15-1242.00,Database Administrators,1.A.4.b.5,Speech Clarity,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,08/2023,Analyst
+15-1252.00,Software Developers,1.A.1.a.1,Oral Comprehension,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.a.1,Oral Comprehension,LV,Level,4.12,8,0.2950,3.5467,4.7033,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.a.2,Written Comprehension,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.a.2,Written Comprehension,LV,Level,4.38,8,0.3239,3.7402,5.0098,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.a.3,Oral Expression,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.a.3,Oral Expression,LV,Level,4.12,8,0.2950,3.5467,4.7033,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.a.4,Written Expression,IM,Importance,3.50,8,0.1890,3.1296,3.8704,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.a.4,Written Expression,LV,Level,4.00,8,0.2673,3.4762,4.5238,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.1,Fluency of Ideas,IM,Importance,3.25,8,0.1637,2.9292,3.5708,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.1,Fluency of Ideas,LV,Level,3.62,8,0.1830,3.2664,3.9836,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.2,Originality,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.2,Originality,LV,Level,3.38,8,0.1830,3.0164,3.7336,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.3,Problem Sensitivity,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.3,Problem Sensitivity,LV,Level,3.88,8,0.2266,3.4309,4.3191,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.4,Deductive Reasoning,IM,Importance,3.75,8,0.2500,3.2600,4.2400,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.4,Deductive Reasoning,LV,Level,4.00,8,0.2673,3.4762,4.5238,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.5,Inductive Reasoning,IM,Importance,3.50,8,0.2673,2.9762,4.0238,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.5,Inductive Reasoning,LV,Level,3.88,8,0.2266,3.4309,4.3191,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.6,Information Ordering,IM,Importance,3.62,8,0.1830,3.2664,3.9836,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.6,Information Ordering,LV,Level,3.88,8,0.1250,3.6300,4.1200,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.7,Category Flexibility,IM,Importance,3.50,8,0.1890,3.1296,3.8704,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.b.7,Category Flexibility,LV,Level,3.75,8,0.1637,3.4292,4.0708,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.c.1,Mathematical Reasoning,IM,Importance,2.88,8,0.2266,2.4309,3.3191,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.c.1,Mathematical Reasoning,LV,Level,3.38,8,0.2631,2.8594,3.8906,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.c.2,Number Facility,IM,Importance,2.50,8,0.2673,1.9762,3.0238,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.c.2,Number Facility,LV,Level,2.75,8,0.4119,1.9427,3.5573,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.d.1,Memorization,IM,Importance,2.25,8,0.2500,1.7600,2.7400,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.d.1,Memorization,LV,Level,2.12,8,0.3981,1.3447,2.9053,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.e.1,Speed of Closure,IM,Importance,2.50,8,0.2673,1.9762,3.0238,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.e.1,Speed of Closure,LV,Level,2.38,8,0.4199,1.5519,3.1981,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.e.2,Flexibility of Closure,IM,Importance,2.62,8,0.3750,1.8900,3.3600,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.e.2,Flexibility of Closure,LV,Level,2.50,8,0.4226,1.6717,3.3283,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.e.3,Perceptual Speed,IM,Importance,2.62,8,0.2631,2.1094,3.1406,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.e.3,Perceptual Speed,LV,Level,2.75,8,0.2500,2.2600,3.2400,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.f.1,Spatial Orientation,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.f.1,Spatial Orientation,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.f.2,Visualization,IM,Importance,2.38,8,0.2631,1.8594,2.8906,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.f.2,Visualization,LV,Level,2.38,8,0.3750,1.6400,3.1100,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.g.1,Selective Attention,IM,Importance,3.12,8,0.4407,2.2613,3.9887,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.g.1,Selective Attention,LV,Level,2.88,8,0.4407,2.0113,3.7387,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.g.2,Time Sharing,IM,Importance,2.00,8,0.2673,1.4762,2.5238,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.1.g.2,Time Sharing,LV,Level,1.88,8,0.4407,1.0113,2.7387,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.a.1,Arm-Hand Steadiness,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.a.1,Arm-Hand Steadiness,LV,Level,1.25,8,0.3134,0.6358,1.8642,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.a.2,Manual Dexterity,IM,Importance,1.62,8,0.1830,1.2664,1.9836,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.a.2,Manual Dexterity,LV,Level,0.88,8,0.2950,0.2967,1.4533,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.a.3,Finger Dexterity,IM,Importance,1.75,8,0.2500,1.2600,2.2400,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.a.3,Finger Dexterity,LV,Level,1.12,8,0.3504,0.4383,1.8117,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.1,Control Precision,IM,Importance,1.50,8,0.1890,1.1296,1.8704,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.1,Control Precision,LV,Level,0.88,8,0.3504,0.1883,1.5617,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.2,Multilimb Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.2,Multilimb Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.3,Response Orientation,IM,Importance,1.12,8,0.1250,1.0000,1.3700,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.3,Response Orientation,LV,Level,0.25,8,0.2500,0.0000,0.7400,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.4,Rate Control,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.b.4,Rate Control,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.c.1,Reaction Time,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.c.1,Reaction Time,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.c.2,Wrist-Finger Speed,IM,Importance,1.75,8,0.2500,1.2600,2.2400,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.c.2,Wrist-Finger Speed,LV,Level,1.50,8,0.4629,0.5927,2.4073,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.c.3,Speed of Limb Movement,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.2.c.3,Speed of Limb Movement,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.1,Static Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.1,Static Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.2,Explosive Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.2,Explosive Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.3,Dynamic Strength,IM,Importance,1.38,8,0.1830,1.0164,1.7336,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.3,Dynamic Strength,LV,Level,0.50,8,0.2673,0.0000,1.0238,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.4,Trunk Strength,IM,Importance,1.88,8,0.2950,1.2967,2.4533,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.a.4,Trunk Strength,LV,Level,1.25,8,0.3660,0.5327,1.9673,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.b.1,Stamina,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.b.1,Stamina,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.1,Extent Flexibility,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.1,Extent Flexibility,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.2,Dynamic Flexibility,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.2,Dynamic Flexibility,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.3,Gross Body Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.3,Gross Body Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.4,Gross Body Equilibrium,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.3.c.4,Gross Body Equilibrium,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.1,Near Vision,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.1,Near Vision,LV,Level,3.75,8,0.1637,3.4292,4.0708,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.2,Far Vision,IM,Importance,2.38,8,0.3750,1.6400,3.1100,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.2,Far Vision,LV,Level,2.38,8,0.5324,1.3314,3.4186,Y,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.3,Visual Color Discrimination,IM,Importance,2.00,8,0.2673,1.4762,2.5238,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.3,Visual Color Discrimination,LV,Level,2.00,8,0.4629,1.0927,2.9073,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.4,Night Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.4,Night Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.5,Peripheral Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.5,Peripheral Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.6,Depth Perception,IM,Importance,1.50,8,0.1890,1.1296,1.8704,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.6,Depth Perception,LV,Level,0.75,8,0.3134,0.1358,1.3642,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.7,Glare Sensitivity,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.a.7,Glare Sensitivity,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.1,Hearing Sensitivity,IM,Importance,1.75,8,0.2500,1.2600,2.2400,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.1,Hearing Sensitivity,LV,Level,1.38,8,0.4199,0.5519,2.1981,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.2,Auditory Attention,IM,Importance,1.75,8,0.2500,1.2600,2.2400,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.2,Auditory Attention,LV,Level,1.38,8,0.4199,0.5519,2.1981,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.3,Sound Localization,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.3,Sound Localization,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.4,Speech Recognition,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.4,Speech Recognition,LV,Level,3.25,8,0.2500,2.7600,3.7400,N,N,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.5,Speech Clarity,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,08/2025,Analyst
+15-1252.00,Software Developers,1.A.4.b.5,Speech Clarity,LV,Level,3.25,8,0.1637,2.9292,3.5708,N,N,08/2025,Analyst
+15-1254.00,Web Developers,1.A.1.a.1,Oral Comprehension,IM,Importance,3.75,8,0.1637,3.4292,4.0708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.a.1,Oral Comprehension,LV,Level,4.00,8,0.0000,4.0000,4.0000,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.a.2,Written Comprehension,IM,Importance,3.62,8,0.1830,3.2664,3.9836,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.a.2,Written Comprehension,LV,Level,3.88,8,0.1250,3.6300,4.1200,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.a.3,Oral Expression,IM,Importance,3.25,8,0.1637,2.9292,3.5708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.a.3,Oral Expression,LV,Level,4.00,8,0.0000,4.0000,4.0000,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.a.4,Written Expression,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.a.4,Written Expression,LV,Level,3.62,8,0.1830,3.2664,3.9836,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.1,Fluency of Ideas,IM,Importance,3.25,8,0.1637,2.9292,3.5708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.1,Fluency of Ideas,LV,Level,3.62,8,0.1830,3.2664,3.9836,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.2,Originality,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.2,Originality,LV,Level,3.62,8,0.1830,3.2664,3.9836,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.3,Problem Sensitivity,IM,Importance,3.62,8,0.1830,3.2664,3.9836,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.3,Problem Sensitivity,LV,Level,3.75,8,0.1637,3.4292,4.0708,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.4,Deductive Reasoning,IM,Importance,3.88,8,0.1250,3.6300,4.1200,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.4,Deductive Reasoning,LV,Level,4.00,8,0.0000,4.0000,4.0000,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.5,Inductive Reasoning,IM,Importance,3.50,8,0.1890,3.1296,3.8704,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.5,Inductive Reasoning,LV,Level,3.38,8,0.1830,3.0164,3.7336,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.6,Information Ordering,IM,Importance,3.50,8,0.1890,3.1296,3.8704,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.6,Information Ordering,LV,Level,3.75,8,0.1637,3.4292,4.0708,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.7,Category Flexibility,IM,Importance,3.25,8,0.1637,2.9292,3.5708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.b.7,Category Flexibility,LV,Level,3.50,8,0.1890,3.1296,3.8704,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.c.1,Mathematical Reasoning,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.c.1,Mathematical Reasoning,LV,Level,2.88,8,0.1250,2.6300,3.1200,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.c.2,Number Facility,IM,Importance,2.75,8,0.2500,2.2600,3.2400,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.c.2,Number Facility,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.d.1,Memorization,IM,Importance,2.50,8,0.1890,2.1296,2.8704,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.d.1,Memorization,LV,Level,2.38,8,0.1830,2.0164,2.7336,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.e.1,Speed of Closure,IM,Importance,2.88,8,0.1250,2.6300,3.1200,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.e.1,Speed of Closure,LV,Level,3.12,8,0.1250,2.8800,3.3700,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.e.2,Flexibility of Closure,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.e.2,Flexibility of Closure,LV,Level,3.38,8,0.1830,3.0164,3.7336,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.e.3,Perceptual Speed,IM,Importance,3.00,8,0.0000,3.0000,3.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.e.3,Perceptual Speed,LV,Level,3.12,8,0.1250,2.8800,3.3700,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.f.1,Spatial Orientation,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.f.1,Spatial Orientation,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.f.2,Visualization,IM,Importance,3.12,8,0.1250,2.8800,3.3700,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.f.2,Visualization,LV,Level,3.62,8,0.1830,3.2664,3.9836,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.g.1,Selective Attention,IM,Importance,3.12,8,0.2266,2.6809,3.5691,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.g.1,Selective Attention,LV,Level,3.25,8,0.1637,2.9292,3.5708,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.g.2,Time Sharing,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.1.g.2,Time Sharing,LV,Level,1.75,8,0.2500,1.2600,2.2400,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.a.1,Arm-Hand Steadiness,IM,Importance,2.00,8,0.0000,2.0000,2.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.a.1,Arm-Hand Steadiness,LV,Level,1.88,8,0.1250,1.6300,2.1200,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.a.2,Manual Dexterity,IM,Importance,2.00,8,0.0000,2.0000,2.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.a.2,Manual Dexterity,LV,Level,2.00,8,0.0000,2.0000,2.0000,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.a.3,Finger Dexterity,IM,Importance,2.75,8,0.1637,2.4292,3.0708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.a.3,Finger Dexterity,LV,Level,3.00,8,0.0000,3.0000,3.0000,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.1,Control Precision,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.1,Control Precision,LV,Level,1.62,8,0.2631,1.1094,2.1406,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.2,Multilimb Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.2,Multilimb Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.3,Response Orientation,IM,Importance,1.12,8,0.1250,1.0000,1.3700,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.3,Response Orientation,LV,Level,0.12,8,0.1250,0.0000,0.3700,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.4,Rate Control,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.b.4,Rate Control,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.c.1,Reaction Time,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.c.1,Reaction Time,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.c.2,Wrist-Finger Speed,IM,Importance,2.00,8,0.1890,1.6296,2.3704,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.c.2,Wrist-Finger Speed,LV,Level,1.00,8,0.1890,0.6296,1.3704,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.c.3,Speed of Limb Movement,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.2.c.3,Speed of Limb Movement,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.1,Static Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.1,Static Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.2,Explosive Strength,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.2,Explosive Strength,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.3,Dynamic Strength,IM,Importance,1.25,8,0.1637,1.0000,1.5708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.3,Dynamic Strength,LV,Level,0.38,8,0.2631,0.0000,0.8906,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.4,Trunk Strength,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.a.4,Trunk Strength,LV,Level,1.12,8,0.2266,0.6809,1.5691,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.b.1,Stamina,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.b.1,Stamina,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.1,Extent Flexibility,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.1,Extent Flexibility,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.2,Dynamic Flexibility,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.2,Dynamic Flexibility,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.3,Gross Body Coordination,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.3,Gross Body Coordination,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.4,Gross Body Equilibrium,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.3.c.4,Gross Body Equilibrium,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.1,Near Vision,IM,Importance,3.62,8,0.1830,3.2664,3.9836,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.1,Near Vision,LV,Level,4.00,8,0.0000,4.0000,4.0000,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.2,Far Vision,IM,Importance,2.38,8,0.1830,2.0164,2.7336,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.2,Far Vision,LV,Level,2.50,8,0.1890,2.1296,2.8704,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.3,Visual Color Discrimination,IM,Importance,2.62,8,0.3239,1.9902,3.2598,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.3,Visual Color Discrimination,LV,Level,2.50,8,0.3780,1.7592,3.2408,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.4,Night Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.4,Night Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.5,Peripheral Vision,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.5,Peripheral Vision,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.6,Depth Perception,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.6,Depth Perception,LV,Level,0.75,8,0.1637,0.4292,1.0708,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.7,Glare Sensitivity,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.a.7,Glare Sensitivity,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.1,Hearing Sensitivity,IM,Importance,1.75,8,0.1637,1.4292,2.0708,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.1,Hearing Sensitivity,LV,Level,1.50,8,0.3273,0.8584,2.1416,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.2,Auditory Attention,IM,Importance,1.88,8,0.1250,1.6300,2.1200,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.2,Auditory Attention,LV,Level,1.75,8,0.3134,1.1358,2.3642,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.3,Sound Localization,IM,Importance,1.00,8,0.0000,1.0000,1.0000,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.3,Sound Localization,LV,Level,0.00,8,0.0000,0.0000,0.0000,N,Y,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.4,Speech Recognition,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.4,Speech Recognition,LV,Level,3.62,8,0.1830,3.2664,3.9836,N,N,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.5,Speech Clarity,IM,Importance,3.38,8,0.1830,3.0164,3.7336,N,,07/2017,Analyst
+15-1254.00,Web Developers,1.A.4.b.5,Speech Clarity,LV,Level,3.12,8,0.1250,2.8800,3.3700,N,N,07/2017,Analyst

@@ -1,0 +1,303 @@
+@prefix : <http://hcaontology.org/yanzhou/ontologies//> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ontologies: <http://hcaontology.org/yanzhou/ontologies#> .
+@base <http://hcaontology.org/yanzhou/ontologies//> .
+
+<http://hcaontology.org/yanzhou/ontologies/> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://hcaontology.org/yanzhou/ontologies/issuedBy
+:issuedBy rdf:type owl:ObjectProperty ;
+          rdfs:domain :Credential ;
+          rdfs:range :IssuingBody .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/mapsToESCO
+:mapsToESCO rdf:type owl:ObjectProperty ;
+            rdfs:domain :Occupation .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/narrowerActivity
+:narrowerActivity rdf:type owl:ObjectProperty ;
+                  rdfs:domain :WorkActivity ;
+                  rdfs:range :WorkActivity .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/performsTask
+:performsTask rdf:type owl:ObjectProperty ;
+              rdfs:domain :Occupation ;
+              rdfs:range :Task .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/realizesActivity
+:realizesActivity rdf:type owl:ObjectProperty ;
+                  rdfs:domain :Task ;
+                  rdfs:range :DWA .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/requiresAbility
+:requiresAbility rdf:type owl:ObjectProperty ;
+                 rdfs:domain :Occupation ;
+                 rdfs:range :Ability .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/requiresCredential
+:requiresCredential rdf:type owl:ObjectProperty ;
+                    rdfs:domain :Occupation ;
+                    rdfs:range :Credential .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/requiresEssentialSkill
+:requiresEssentialSkill rdf:type owl:ObjectProperty ;
+                        rdfs:subPropertyOf :requiresSkill ;
+                        rdfs:range :Skill .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/requiresKnowledge
+:requiresKnowledge rdf:type owl:ObjectProperty ;
+                   rdfs:range :Knowledge .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/requiresOptionalSkill
+:requiresOptionalSkill rdf:type owl:ObjectProperty ;
+                       rdfs:subPropertyOf :requiresSkill ;
+                       rdfs:range :Skill .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/requiresSkill
+:requiresSkill rdf:type owl:ObjectProperty ;
+               rdfs:range :Skill ;
+               owl:propertyChainAxiom ( :performsTask
+                                        :requiresSkill
+                                      ) .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/usesSoftware
+:usesSoftware rdf:type owl:ObjectProperty ;
+              rdfs:range :Software .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/usesTool
+:usesTool rdf:type owl:ObjectProperty ;
+          rdfs:range :Tool .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://hcaontology.org/yanzhou/ontologies/confidence
+:confidence rdf:type owl:DatatypeProperty ;
+            rdfs:range xsd:float .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/dataSource
+:dataSource rdf:type owl:DatatypeProperty ;
+            rdfs:range xsd:string .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/escoUri
+:escoUri rdf:type owl:DatatypeProperty ;
+         rdfs:range xsd:anyURI .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/importanceScore
+:importanceScore rdf:type owl:DatatypeProperty ;
+                 rdfs:range xsd:float .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/isHotTechnology
+:isHotTechnology rdf:type owl:DatatypeProperty ;
+                 rdfs:range xsd:boolean .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/isInDemand
+:isInDemand rdf:type owl:DatatypeProperty ;
+            rdfs:range xsd:boolean .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/lastUpdated
+:lastUpdated rdf:type owl:DatatypeProperty ;
+             rdfs:range xsd:dateTime .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/levelScore
+:levelScore rdf:type owl:DatatypeProperty ;
+            rdfs:range xsd:float .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/socCode
+:socCode rdf:type owl:DatatypeProperty ;
+         rdfs:range xsd:string .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/sourceVersion
+:sourceVersion rdf:type owl:DatatypeProperty ;
+               rdfs:range xsd:string .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/taskType
+:taskType rdf:type owl:DatatypeProperty ;
+          rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://hcaontology.org/yanzhou/ontologies/Ability
+:Ability rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Credential
+:Credential rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/DWA
+:DWA rdf:type owl:Class ;
+     rdfs:subClassOf :WorkActivity .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/EssentialSkill
+:EssentialSkill rdf:type owl:Class ;
+                rdfs:subClassOf :Skill .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/GWA
+:GWA rdf:type owl:Class ;
+     rdfs:subClassOf :WorkActivity .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/IWA
+:IWA rdf:type owl:Class ;
+     rdfs:subClassOf :WorkActivity .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/IssuingBody
+:IssuingBody rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Knowledge
+:Knowledge rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Occupation
+:Occupation rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/RegulatedOccupation
+:RegulatedOccupation rdf:type owl:Class ;
+                     owl:equivalentClass [ owl:intersectionOf ( :Occupation
+                                                                [ rdf:type owl:Restriction ;
+                                                                  owl:onProperty :requiresCredential ;
+                                                                  owl:someValuesFrom :Credential
+                                                                ]
+                                                              ) ;
+                                           rdf:type owl:Class
+                                         ] ;
+                     rdfs:subClassOf :Occupation .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Skill
+:Skill rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Software
+:Software rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/SourceRecord
+:SourceRecord rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Task
+:Task rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Tool
+:Tool rdf:type owl:Class .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/TransferableSkill
+:TransferableSkill rdf:type owl:Class ;
+                   rdfs:subClassOf :Skill .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/WorkActivity
+:WorkActivity rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://hcaontology.org/yanzhou/ontologies/AnalyzeData
+:AnalyzeData rdf:type owl:NamedIndividual ,
+                      :Task ;
+             :requiresSkill :StatisticalAnalysis ;
+             :usesSoftware :Python .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/DataScientist
+:DataScientist rdf:type owl:NamedIndividual ,
+                        :Occupation ;
+               :performsTask :AnalyzeData ;
+               :requiresSkill :Programming ,
+                              :StatisticalAnalysis .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Laptop
+:Laptop rdf:type owl:NamedIndividual ,
+                 :Tool .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Programming
+:Programming rdf:type owl:NamedIndividual ,
+                      :Skill .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/Python
+:Python rdf:type owl:NamedIndividual ,
+                 :Software .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/SoftwareDeveloper
+:SoftwareDeveloper rdf:type owl:NamedIndividual ,
+                            :Occupation ;
+                   :performsTask :WriteCode .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/StatisticalAnalysis
+:StatisticalAnalysis rdf:type owl:NamedIndividual ,
+                              :Skill .
+
+
+###  http://hcaontology.org/yanzhou/ontologies/WriteCode
+:WriteCode rdf:type owl:NamedIndividual ,
+                    :Task ;
+           :requiresSkill :Programming ;
+           :usesSoftware :Python .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :Occupation
+                :Skill
+                :Software
+                :Task
+                :Tool
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

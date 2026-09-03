@@ -1,0 +1,33 @@
+O*NET-SOC Code,Title,Reported Job Title,Shown in My Next Move
+15-1212.00,Information Security Analysts,Information Security Officer,Y
+15-1212.00,Information Security Analysts,Information Security Specialist,N
+15-1212.00,Information Security Analysts,Information Systems Security Analyst,N
+15-1212.00,Information Security Analysts,Information Systems Security Officer (ISSO),Y
+15-1212.00,Information Security Analysts,Information Technology Security Analyst (IT Security Analyst),Y
+15-1212.00,Information Security Analysts,Network Security Analyst,Y
+15-1212.00,Information Security Analysts,Security Analyst,N
+15-1212.00,Information Security Analysts,Systems Analyst,N
+15-1242.00,Database Administrators,Database Administration Manager,Y
+15-1242.00,Database Administrators,Database Administrator (DBA),Y
+15-1242.00,Database Administrators,Database Analyst,Y
+15-1242.00,Database Administrators,Database Coordinator,N
+15-1242.00,Database Administrators,Database Engineer,N
+15-1242.00,Database Administrators,Database Manager,N
+15-1242.00,Database Administrators,Development and Database Administration Manager,N
+15-1242.00,Database Administrators,IS Admin (Information Systems Administrator),N
+15-1242.00,Database Administrators,Systems Administrator (Systems Admin),Y
+15-1252.00,Software Developers,Application Developer,N
+15-1252.00,Software Developers,Application Integration Engineer,N
+15-1252.00,Software Developers,Developer,Y
+15-1252.00,Software Developers,DevOps Engineer (Development Operations Engineer),N
+15-1252.00,Software Developers,Infrastructure Engineer,N
+15-1252.00,Software Developers,Software Architect,Y
+15-1252.00,Software Developers,Software Developer,Y
+15-1252.00,Software Developers,Software Development Engineer,N
+15-1252.00,Software Developers,Software Engineer,Y
+15-1252.00,Software Developers,Systems Engineer,N
+15-1254.00,Web Developers,Technology Applications Engineer,N
+15-1254.00,Web Developers,Web Architect,Y
+15-1254.00,Web Developers,Web Design Specialist,Y
+15-1254.00,Web Developers,Web Developer,Y
+15-1254.00,Web Developers,Webmaster,Y

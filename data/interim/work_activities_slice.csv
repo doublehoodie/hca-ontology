@@ -1,0 +1,329 @@
+O*NET-SOC Code,Title,Element ID,Element Name,Scale ID,Scale Name,Data Value,N,Standard Error,Lower CI Bound,Upper CI Bound,Recommend Suppress,Not Relevant,Date,Domain Source
+15-1212.00,Information Security Analysts,4.A.1.a.1,Getting Information,IM,Importance,4.50,21,0.1498,4.1825,4.8076,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.a.1,Getting Information,LV,Level,4.70,21,0.3770,3.9162,5.4889,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM,Importance,3.92,21,0.1323,3.6471,4.1988,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",LV,Level,4.74,21,0.2243,4.2754,5.2111,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM,Importance,4.29,21,0.2141,3.8393,4.7323,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.b.1,"Identifying Objects, Actions, and Events",LV,Level,5.26,21,0.2030,4.8371,5.6838,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM,Importance,2.45,21,0.2793,1.8700,3.0354,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",LV,Level,2.32,21,0.3100,1.6717,2.9648,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM,Importance,3.18,21,0.2269,2.7105,3.6570,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",LV,Level,3.07,21,0.4609,2.1132,4.0361,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM,Importance,3.07,21,0.3892,2.2534,3.8770,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",LV,Level,3.67,21,0.4443,2.7397,4.5931,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.2,Processing Information,IM,Importance,4.09,21,0.2842,3.5011,4.6869,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.2,Processing Information,LV,Level,5.21,21,0.3477,4.4816,5.9323,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM,Importance,4.12,21,0.3424,3.4056,4.8341,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,LV,Level,5.18,21,0.3632,4.4187,5.9338,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.4,Analyzing Data or Information,IM,Importance,4.08,21,0.2381,3.5842,4.5775,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.a.4,Analyzing Data or Information,LV,Level,4.84,21,0.3457,4.1196,5.5617,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.1,Making Decisions and Solving Problems,IM,Importance,3.94,21,0.1938,3.5356,4.3443,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.1,Making Decisions and Solving Problems,LV,Level,4.62,21,0.4423,3.6964,5.5417,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.2,Thinking Creatively,IM,Importance,3.56,21,0.2244,3.0886,4.0247,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.2,Thinking Creatively,LV,Level,4.70,21,0.2950,4.0811,5.3119,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.3,Updating and Using Relevant Knowledge,IM,Importance,4.05,21,0.2023,3.6304,4.4744,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.3,Updating and Using Relevant Knowledge,LV,Level,5.73,21,0.2348,5.2399,6.2196,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.4,Developing Objectives and Strategies,IM,Importance,3.27,21,0.2526,2.7441,3.7979,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.4,Developing Objectives and Strategies,LV,Level,3.62,21,0.3927,2.8010,4.4392,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.5,Scheduling Work and Activities,IM,Importance,2.63,21,0.2258,2.1574,3.0995,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.5,Scheduling Work and Activities,LV,Level,3.22,21,0.3285,2.5379,3.9082,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM,Importance,3.67,21,0.2216,3.2105,4.1351,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",LV,Level,4.77,21,0.2455,4.2619,5.2863,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.1,Performing General Physical Activities,IM,Importance,1.62,21,0.1205,1.3708,1.8735,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.1,Performing General Physical Activities,LV,Level,1.49,21,0.2724,0.9199,2.0562,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.2,Handling and Moving Objects,IM,Importance,1.68,20,0.1338,1.4037,1.9638,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.2,Handling and Moving Objects,LV,Level,2.33,21,0.5429,1.1975,3.4623,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.3,Controlling Machines and Processes,IM,Importance,1.91,21,0.3090,1.2618,2.5510,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.3,Controlling Machines and Processes,LV,Level,1.46,21,0.4789,0.4561,2.4542,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM,Importance,1.34,21,0.1078,1.1188,1.5686,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",LV,Level,0.74,21,0.2351,0.2469,1.2278,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.1,Working with Computers,IM,Importance,4.70,20,0.1915,4.3029,5.0000,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.1,Working with Computers,LV,Level,5.26,21,0.3827,4.4599,6.0564,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM,Importance,1.95,21,0.2207,1.4940,2.4147,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",LV,Level,1.83,21,0.4873,0.8120,2.8449,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM,Importance,1.36,21,0.1563,1.0378,1.6898,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,LV,Level,0.88,21,0.3792,0.0939,1.6759,N,Y,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM,Importance,2.53,21,0.4416,1.6108,3.4532,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,LV,Level,3.09,21,0.7962,1.4279,4.7498,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.6,Documenting/Recording Information,IM,Importance,4.03,20,0.2391,3.5306,4.5316,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.3.b.6,Documenting/Recording Information,LV,Level,4.48,21,0.2475,3.9617,4.9944,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM,Importance,3.74,20,0.2874,3.1372,4.3402,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.1,Interpreting the Meaning of Information for Others,LV,Level,4.07,20,0.3954,3.2444,4.8996,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM,Importance,4.00,19,0.1994,3.5854,4.4234,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",LV,Level,5.28,19,0.3244,4.5965,5.9594,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.3,Communicating with People Outside the Organization,IM,Importance,3.13,20,0.2575,2.5956,3.6736,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.3,Communicating with People Outside the Organization,LV,Level,3.83,20,0.4600,2.8648,4.7903,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM,Importance,3.45,20,0.1903,3.0537,3.8502,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,LV,Level,4.70,20,0.1991,4.2843,5.1178,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.5,Assisting and Caring for Others,IM,Importance,1.65,21,0.2404,1.1470,2.1497,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.5,Assisting and Caring for Others,LV,Level,1.12,21,0.4042,0.2802,1.9666,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.6,Selling or Influencing Others,IM,Importance,2.32,21,0.1571,1.9972,2.6525,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.6,Selling or Influencing Others,LV,Level,2.37,21,0.2516,1.8423,2.8918,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM,Importance,2.59,21,0.2611,2.0482,3.1373,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,LV,Level,3.32,21,0.4761,2.3229,4.3092,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.8,Performing for or Working Directly with the Public,IM,Importance,1.75,21,0.2770,1.1744,2.3301,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.a.8,Performing for or Working Directly with the Public,LV,Level,1.59,21,0.5246,0.4987,2.6872,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.1,Coordinating the Work and Activities of Others,IM,Importance,2.85,21,0.3251,2.1700,3.5261,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.1,Coordinating the Work and Activities of Others,LV,Level,3.49,21,0.4863,2.4761,4.5048,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.2,Developing and Building Teams,IM,Importance,2.83,21,0.3165,2.1680,3.4885,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.2,Developing and Building Teams,LV,Level,2.82,21,0.3945,2.0012,3.6471,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.3,Training and Teaching Others,IM,Importance,2.73,20,0.2370,2.2301,3.2222,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.3,Training and Teaching Others,LV,Level,3.19,21,0.2409,2.6844,3.6895,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM,Importance,2.42,21,0.3897,1.6021,3.2280,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",LV,Level,2.60,21,0.7296,1.0827,4.1267,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.5,Coaching and Developing Others,IM,Importance,2.67,21,0.2302,2.1901,3.1507,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.5,Coaching and Developing Others,LV,Level,2.98,21,0.5380,1.8570,4.1015,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.6,Providing Consultation and Advice to Others,IM,Importance,3.01,21,0.3053,2.3701,3.6436,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.b.6,Providing Consultation and Advice to Others,LV,Level,3.77,21,0.5649,2.5910,4.9476,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.c.1,Performing Administrative Activities,IM,Importance,3.27,21,0.2465,2.7553,3.7836,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.c.1,Performing Administrative Activities,LV,Level,3.51,21,0.2748,2.9328,4.0791,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.c.2,Staffing Organizational Units,IM,Importance,2.27,21,0.3885,1.4561,3.0768,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.c.2,Staffing Organizational Units,LV,Level,2.44,21,0.5060,1.3847,3.4958,N,N,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.c.3,Monitoring and Controlling Resources,IM,Importance,2.56,21,0.3631,1.8027,3.3175,N,,08/2018,Incumbent
+15-1212.00,Information Security Analysts,4.A.4.c.3,Monitoring and Controlling Resources,LV,Level,2.76,21,0.6232,1.4590,4.0588,N,N,08/2018,Incumbent
+15-1242.00,Database Administrators,4.A.1.a.1,Getting Information,IM,Importance,4.12,19,0.2483,3.6015,4.6447,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.a.1,Getting Information,LV,Level,4.69,19,0.3351,3.9865,5.3946,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM,Importance,3.42,19,0.3276,2.7305,4.1070,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",LV,Level,4.71,19,0.4385,3.7899,5.6324,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM,Importance,4.11,19,0.2997,3.4758,4.7350,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.b.1,"Identifying Objects, Actions, and Events",LV,Level,4.48,19,0.6495,3.1195,5.8487,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM,Importance,2.15,19,0.2637,1.5986,2.7066,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",LV,Level,2.29,19,0.4760,1.2905,3.2907,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM,Importance,3.04,19,0.2726,2.4640,3.6096,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",LV,Level,3.70,19,0.4351,2.7886,4.6169,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM,Importance,2.68,17,0.2401,2.1679,3.1859,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",LV,Level,3.52,19,0.2812,2.9303,4.1118,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.2,Processing Information,IM,Importance,3.92,19,0.2939,3.3072,4.5420,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.2,Processing Information,LV,Level,5.13,19,0.4211,4.2410,6.0104,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM,Importance,3.75,19,0.3516,3.0139,4.4914,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,LV,Level,4.62,19,0.4830,3.6066,5.6361,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.4,Analyzing Data or Information,IM,Importance,4.00,19,0.3377,3.2952,4.7143,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.a.4,Analyzing Data or Information,LV,Level,5.19,19,0.4207,4.3068,6.0747,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.1,Making Decisions and Solving Problems,IM,Importance,4.18,19,0.3049,3.5393,4.8205,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.1,Making Decisions and Solving Problems,LV,Level,5.39,19,0.3067,4.7444,6.0331,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.2,Thinking Creatively,IM,Importance,3.73,19,0.3545,2.9818,4.4715,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.2,Thinking Creatively,LV,Level,5.01,19,0.3256,4.3241,5.6924,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.3,Updating and Using Relevant Knowledge,IM,Importance,3.68,19,0.2196,3.2202,4.1429,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.3,Updating and Using Relevant Knowledge,LV,Level,4.98,19,0.2564,4.4397,5.5172,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.4,Developing Objectives and Strategies,IM,Importance,3.30,19,0.1466,2.9946,3.6108,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.4,Developing Objectives and Strategies,LV,Level,4.43,19,0.2723,3.8627,5.0070,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.5,Scheduling Work and Activities,IM,Importance,3.35,19,0.2310,2.8612,3.8320,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.5,Scheduling Work and Activities,LV,Level,4.62,19,0.5183,3.5295,5.7075,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM,Importance,3.62,19,0.3672,2.8459,4.3888,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",LV,Level,4.99,19,0.4092,4.1280,5.8473,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.1,Performing General Physical Activities,IM,Importance,1.43,19,0.1832,1.0443,1.8142,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.1,Performing General Physical Activities,LV,Level,0.61,19,0.2650,0.0546,1.1681,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.2,Handling and Moving Objects,IM,Importance,1.39,19,0.1801,1.0145,1.7715,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.2,Handling and Moving Objects,LV,Level,0.75,19,0.3277,0.0574,1.4344,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.3,Controlling Machines and Processes,IM,Importance,1.88,19,0.4311,1.0000,2.7855,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.3,Controlling Machines and Processes,LV,Level,1.38,19,0.7754,0.0000,3.0047,Y,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM,Importance,1.51,19,0.3765,1.0000,2.3048,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",LV,Level,0.84,19,0.6279,0.0000,2.1556,Y,Y,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.1,Working with Computers,IM,Importance,4.83,19,0.1500,4.5109,5.0000,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.1,Working with Computers,LV,Level,5.95,19,0.3336,5.2517,6.6534,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM,Importance,1.46,19,0.2056,1.0313,1.8952,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",LV,Level,0.88,19,0.4015,0.0355,1.7227,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM,Importance,1.53,19,0.3097,1.0000,2.1831,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,LV,Level,1.12,19,0.6347,0.0000,2.4488,Y,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM,Importance,1.99,19,0.2857,1.3938,2.5941,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,LV,Level,2.07,19,0.5863,0.8334,3.2969,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.6,Documenting/Recording Information,IM,Importance,3.61,19,0.2063,3.1716,4.0384,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.3.b.6,Documenting/Recording Information,LV,Level,4.40,19,0.3910,3.5803,5.2232,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM,Importance,3.47,19,0.3062,2.8272,4.1140,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.1,Interpreting the Meaning of Information for Others,LV,Level,4.37,19,0.3596,3.6135,5.1244,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM,Importance,3.84,19,0.1881,3.4458,4.2360,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",LV,Level,4.95,19,0.4155,4.0737,5.8194,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.3,Communicating with People Outside the Organization,IM,Importance,2.58,19,0.4252,1.6836,3.4702,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.3,Communicating with People Outside the Organization,LV,Level,2.69,19,0.6295,1.3640,4.0093,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM,Importance,3.86,19,0.2685,3.2997,4.4280,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,LV,Level,5.49,19,0.4704,4.5002,6.4769,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.5,Assisting and Caring for Others,IM,Importance,2.85,19,0.2729,2.2794,3.4260,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.5,Assisting and Caring for Others,LV,Level,3.53,19,0.5114,2.4582,4.6072,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.6,Selling or Influencing Others,IM,Importance,1.81,19,0.1666,1.4550,2.1551,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.6,Selling or Influencing Others,LV,Level,1.75,19,0.3973,0.9147,2.5841,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM,Importance,3.42,19,0.3223,2.7430,4.0971,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,LV,Level,4.08,19,0.5343,2.9615,5.2068,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.8,Performing for or Working Directly with the Public,IM,Importance,1.13,19,0.0754,1.0000,1.2868,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.a.8,Performing for or Working Directly with the Public,LV,Level,0.24,19,0.1457,0.0000,0.5493,Y,Y,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.1,Coordinating the Work and Activities of Others,IM,Importance,3.08,19,0.4095,2.2188,3.9393,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.1,Coordinating the Work and Activities of Others,LV,Level,4.27,19,0.8686,2.4401,6.0900,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.2,Developing and Building Teams,IM,Importance,2.90,18,0.3120,2.2398,3.5562,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.2,Developing and Building Teams,LV,Level,3.16,19,0.5667,1.9722,4.3536,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.3,Training and Teaching Others,IM,Importance,3.00,19,0.2381,2.4981,3.4986,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.3,Training and Teaching Others,LV,Level,4.00,19,0.4117,3.1371,4.8671,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM,Importance,2.12,19,0.2637,1.5663,2.6743,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",LV,Level,2.49,19,0.5088,1.4259,3.5639,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.5,Coaching and Developing Others,IM,Importance,2.19,19,0.3468,1.4586,2.9159,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.5,Coaching and Developing Others,LV,Level,2.27,19,0.6140,0.9783,3.5581,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.6,Providing Consultation and Advice to Others,IM,Importance,2.90,19,0.4417,1.9760,3.8318,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.b.6,Providing Consultation and Advice to Others,LV,Level,3.44,19,0.6902,1.9918,4.8918,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.c.1,Performing Administrative Activities,IM,Importance,2.21,18,0.2601,1.6648,2.7623,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.c.1,Performing Administrative Activities,LV,Level,2.37,19,0.5675,1.1748,3.5595,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.c.2,Staffing Organizational Units,IM,Importance,1.93,18,0.3517,1.1832,2.6672,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.c.2,Staffing Organizational Units,LV,Level,1.70,19,0.5157,0.6144,2.7813,N,N,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.c.3,Monitoring and Controlling Resources,IM,Importance,2.78,19,0.3501,2.0469,3.5181,N,,08/2023,Incumbent
+15-1242.00,Database Administrators,4.A.4.c.3,Monitoring and Controlling Resources,LV,Level,3.02,19,0.5684,1.8227,4.2110,N,N,08/2023,Incumbent
+15-1252.00,Software Developers,4.A.1.a.1,Getting Information,IM,Importance,4.04,21,0.3000,3.4105,4.6620,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.a.1,Getting Information,LV,Level,4.08,22,0.5489,2.9414,5.2245,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM,Importance,3.70,22,0.4266,2.8138,4.5880,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",LV,Level,3.93,22,0.2941,3.3203,4.5435,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM,Importance,3.66,22,0.6931,2.2154,5.0000,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.b.1,"Identifying Objects, Actions, and Events",LV,Level,3.73,22,0.5400,2.6110,4.8569,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM,Importance,2.06,21,0.3902,1.2486,2.8765,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",LV,Level,1.91,21,0.4475,0.9781,2.8451,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM,Importance,2.67,22,0.1845,2.2855,3.0527,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",LV,Level,2.55,22,0.2169,2.1022,3.0042,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM,Importance,2.61,22,0.3078,1.9679,3.2481,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",LV,Level,3.26,22,0.4483,2.3270,4.1913,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.2,Processing Information,IM,Importance,4.38,22,0.1183,4.1334,4.6253,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.2,Processing Information,LV,Level,5.06,22,0.5808,3.8554,6.2711,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM,Importance,3.94,22,0.1815,3.5616,4.3166,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,LV,Level,4.42,22,0.3307,3.7368,5.1124,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.4,Analyzing Data or Information,IM,Importance,4.20,22,0.1318,3.9221,4.4702,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.a.4,Analyzing Data or Information,LV,Level,4.77,22,0.3600,4.0184,5.5158,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.1,Making Decisions and Solving Problems,IM,Importance,4.34,21,0.1384,4.0559,4.6332,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.1,Making Decisions and Solving Problems,LV,Level,5.09,21,0.1551,4.7675,5.4145,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.2,Thinking Creatively,IM,Importance,4.33,22,0.0801,4.1642,4.4974,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.2,Thinking Creatively,LV,Level,5.45,22,0.4566,4.4959,6.3949,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.3,Updating and Using Relevant Knowledge,IM,Importance,4.10,22,0.0985,3.8915,4.3013,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.3,Updating and Using Relevant Knowledge,LV,Level,5.16,22,0.3227,4.4919,5.8340,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.4,Developing Objectives and Strategies,IM,Importance,3.76,21,0.1223,3.5049,4.0153,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.4,Developing Objectives and Strategies,LV,Level,3.95,22,0.4400,3.0344,4.8647,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.5,Scheduling Work and Activities,IM,Importance,3.32,22,0.4351,2.4155,4.2250,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.5,Scheduling Work and Activities,LV,Level,3.77,22,0.7183,2.2810,5.2687,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM,Importance,4.06,22,0.2101,3.6257,4.4996,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",LV,Level,4.96,22,0.5206,3.8759,6.0413,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.1,Performing General Physical Activities,IM,Importance,1.67,22,0.4985,1.0000,2.7083,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.1,Performing General Physical Activities,LV,Level,0.96,22,0.6649,0.0000,2.3457,Y,Y,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.2,Handling and Moving Objects,IM,Importance,1.20,22,0.1087,1.0000,1.4245,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.2,Handling and Moving Objects,LV,Level,0.40,22,0.2300,0.0000,0.8815,Y,Y,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.3,Controlling Machines and Processes,IM,Importance,2.28,22,0.5211,1.1999,3.3671,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.3,Controlling Machines and Processes,LV,Level,1.48,22,0.4502,0.5463,2.4187,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM,Importance,1.12,22,0.1030,1.0000,1.3374,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",LV,Level,0.16,22,0.1319,0.0000,0.4318,Y,Y,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.1,Working with Computers,IM,Importance,4.61,22,0.0746,4.4580,4.7684,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.1,Working with Computers,LV,Level,4.92,22,0.4980,3.8858,5.9573,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM,Importance,1.69,22,0.3651,1.0000,2.4475,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",LV,Level,1.28,22,0.6081,0.0162,2.5453,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM,Importance,1.06,22,0.0681,1.0000,1.2063,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,LV,Level,0.16,22,0.1697,0.0000,0.5125,Y,Y,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM,Importance,1.65,22,0.3394,1.0000,2.3576,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,LV,Level,0.71,22,0.3311,0.0242,1.4012,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.6,Documenting/Recording Information,IM,Importance,3.78,22,0.2112,3.3407,4.2190,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.3.b.6,Documenting/Recording Information,LV,Level,3.78,22,0.4215,2.9037,4.6569,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM,Importance,3.61,22,0.2988,2.9888,4.2314,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.1,Interpreting the Meaning of Information for Others,LV,Level,3.56,20,0.3687,2.7875,4.3309,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM,Importance,4.23,21,0.1303,3.9581,4.5016,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",LV,Level,4.12,22,0.5107,3.0595,5.1838,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.3,Communicating with People Outside the Organization,IM,Importance,2.52,21,0.2722,1.9503,3.0859,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.3,Communicating with People Outside the Organization,LV,Level,2.11,21,0.2162,1.6554,2.5572,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM,Importance,3.54,22,0.2456,3.0341,4.0557,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,LV,Level,3.86,22,0.4395,2.9467,4.7747,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.5,Assisting and Caring for Others,IM,Importance,2.28,22,0.1689,1.9298,2.6323,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.5,Assisting and Caring for Others,LV,Level,2.23,22,0.3733,1.4529,3.0057,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.6,Selling or Influencing Others,IM,Importance,1.61,22,0.2646,1.0637,2.1640,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.6,Selling or Influencing Others,LV,Level,0.73,22,0.3118,0.0862,1.3831,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM,Importance,2.39,22,0.1646,2.0455,2.7300,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,LV,Level,2.42,22,0.4008,1.5907,3.2578,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.8,Performing for or Working Directly with the Public,IM,Importance,1.12,22,0.1095,1.0000,1.3522,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.a.8,Performing for or Working Directly with the Public,LV,Level,0.24,22,0.1953,0.0000,0.6435,Y,Y,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.1,Coordinating the Work and Activities of Others,IM,Importance,2.34,22,0.2524,1.8171,2.8671,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.1,Coordinating the Work and Activities of Others,LV,Level,2.05,22,0.4653,1.0806,3.0159,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.2,Developing and Building Teams,IM,Importance,2.22,22,0.2424,1.7158,2.7238,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.2,Developing and Building Teams,LV,Level,1.40,22,0.5519,0.2523,2.5477,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.3,Training and Teaching Others,IM,Importance,2.83,22,0.2133,2.3833,3.2704,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.3,Training and Teaching Others,LV,Level,2.47,22,0.1690,2.1226,2.8257,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM,Importance,1.69,22,0.4100,1.0000,2.5419,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",LV,Level,1.20,22,0.6630,0.0000,2.5801,Y,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.5,Coaching and Developing Others,IM,Importance,2.71,22,0.1789,2.3371,3.0812,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.5,Coaching and Developing Others,LV,Level,2.47,22,0.4354,1.5603,3.3714,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.6,Providing Consultation and Advice to Others,IM,Importance,3.27,22,0.1798,2.8918,3.6395,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.b.6,Providing Consultation and Advice to Others,LV,Level,3.88,21,0.7225,2.3718,5.3860,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.c.1,Performing Administrative Activities,IM,Importance,2.32,22,0.1537,2.0037,2.6428,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.c.1,Performing Administrative Activities,LV,Level,1.77,22,0.2264,1.2997,2.2414,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.c.2,Staffing Organizational Units,IM,Importance,1.53,22,0.0892,1.3399,1.7111,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.c.2,Staffing Organizational Units,LV,Level,0.95,22,0.1517,0.6326,1.2634,N,N,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.c.3,Monitoring and Controlling Resources,IM,Importance,2.10,22,0.2528,1.5742,2.6257,N,,08/2025,Incumbent
+15-1252.00,Software Developers,4.A.4.c.3,Monitoring and Controlling Resources,LV,Level,1.29,22,0.3047,0.6562,1.9235,N,N,08/2025,Incumbent
+15-1254.00,Web Developers,4.A.1.a.1,Getting Information,IM,Importance,4.48,23,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.a.1,Getting Information,LV,Level,4.35,23,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM,Importance,2.96,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",LV,Level,3.50,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM,Importance,3.67,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.b.1,"Identifying Objects, Actions, and Events",LV,Level,4.00,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM,Importance,2.46,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",LV,Level,2.38,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM,Importance,3.33,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",LV,Level,3.38,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM,Importance,3.04,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",LV,Level,3.50,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.2,Processing Information,IM,Importance,4.13,23,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.2,Processing Information,LV,Level,5.17,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM,Importance,3.33,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,LV,Level,3.79,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.4,Analyzing Data or Information,IM,Importance,3.54,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.a.4,Analyzing Data or Information,LV,Level,4.25,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.1,Making Decisions and Solving Problems,IM,Importance,4.25,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.1,Making Decisions and Solving Problems,LV,Level,4.96,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.2,Thinking Creatively,IM,Importance,4.38,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.2,Thinking Creatively,LV,Level,5.75,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.3,Updating and Using Relevant Knowledge,IM,Importance,4.29,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.3,Updating and Using Relevant Knowledge,LV,Level,5.50,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.4,Developing Objectives and Strategies,IM,Importance,3.33,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.4,Developing Objectives and Strategies,LV,Level,3.83,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.5,Scheduling Work and Activities,IM,Importance,3.46,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.5,Scheduling Work and Activities,LV,Level,4.21,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM,Importance,3.91,22,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",LV,Level,5.00,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.1,Performing General Physical Activities,IM,Importance,1.42,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.1,Performing General Physical Activities,LV,Level,0.42,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.2,Handling and Moving Objects,IM,Importance,1.25,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.2,Handling and Moving Objects,LV,Level,0.75,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.3,Controlling Machines and Processes,IM,Importance,2.00,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.3,Controlling Machines and Processes,LV,Level,1.46,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM,Importance,1.21,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",LV,Level,0.38,24,,,,,Y,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.1,Working with Computers,IM,Importance,4.88,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.1,Working with Computers,LV,Level,4.79,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM,Importance,1.58,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",LV,Level,1.12,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM,Importance,1.08,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,LV,Level,0.17,24,,,,,Y,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM,Importance,1.67,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,LV,Level,1.50,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.6,Documenting/Recording Information,IM,Importance,3.46,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.3.b.6,Documenting/Recording Information,LV,Level,3.62,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM,Importance,3.33,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.1,Interpreting the Meaning of Information for Others,LV,Level,3.54,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM,Importance,3.88,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",LV,Level,4.38,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.3,Communicating with People Outside the Organization,IM,Importance,3.04,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.3,Communicating with People Outside the Organization,LV,Level,3.71,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM,Importance,3.54,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,LV,Level,4.62,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.5,Assisting and Caring for Others,IM,Importance,1.92,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.5,Assisting and Caring for Others,LV,Level,1.33,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.6,Selling or Influencing Others,IM,Importance,2.29,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.6,Selling or Influencing Others,LV,Level,2.54,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM,Importance,2.88,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,LV,Level,3.08,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.8,Performing for or Working Directly with the Public,IM,Importance,1.79,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.a.8,Performing for or Working Directly with the Public,LV,Level,1.46,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.1,Coordinating the Work and Activities of Others,IM,Importance,2.79,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.1,Coordinating the Work and Activities of Others,LV,Level,3.42,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.2,Developing and Building Teams,IM,Importance,3.25,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.2,Developing and Building Teams,LV,Level,3.21,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.3,Training and Teaching Others,IM,Importance,2.83,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.3,Training and Teaching Others,LV,Level,3.29,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM,Importance,2.67,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",LV,Level,3.25,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.5,Coaching and Developing Others,IM,Importance,2.50,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.5,Coaching and Developing Others,LV,Level,2.96,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.6,Providing Consultation and Advice to Others,IM,Importance,3.29,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.b.6,Providing Consultation and Advice to Others,LV,Level,4.29,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.c.1,Performing Administrative Activities,IM,Importance,2.58,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.c.1,Performing Administrative Activities,LV,Level,3.00,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.c.2,Staffing Organizational Units,IM,Importance,2.00,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.c.2,Staffing Organizational Units,LV,Level,2.25,24,,,,,N,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.c.3,Monitoring and Controlling Resources,IM,Importance,2.42,24,,,,,,07/2017,Occupational Expert
+15-1254.00,Web Developers,4.A.4.c.3,Monitoring and Controlling Resources,LV,Level,2.46,24,,,,,N,07/2017,Occupational Expert

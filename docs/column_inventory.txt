@@ -1,0 +1,217 @@
+RAW = /Users/yanzhou/Desktop/NYU/OntologyThesis/data/raw
+
+=== data/raw/abilities.csv (92,976 rows)
+['O*NET-SOC Code', 'Title', 'Element ID', 'Element Name', 'Scale ID', 'Scale Name', 'Data Value', 'N', 'Standard Error', 'Lower CI Bound', 'Upper CI Bound', 'Recommend Suppress', 'Not Relevant', 'Date', 'Domain Source']
+
+=== data/raw/abilities_to_work_activities.csv (381 rows)
+['Abilities Element ID', 'Abilities Element Name', 'Work Activities Element ID', 'Work Activities Element Name']
+
+=== data/raw/content_model_reference.csv (3,006 rows)
+['Element ID', 'Element Name', 'Description']
+
+=== data/raw/essential_skills.csv (17,880 rows)
+['O*NET-SOC Code', 'Title', 'Element ID', 'Element Name', 'Scale ID', 'Scale Name', 'Data Value', 'N', 'Standard Error', 'Lower CI Bound', 'Upper CI Bound', 'Recommend Suppress', 'Not Relevant', 'Date', 'Domain Source']
+
+=== data/raw/essential_skills_to_work_activities.csv (110 rows)
+['Essential Skills Element ID', 'Essential Skills Element Name', 'Work Activities Element ID', 'Work Activities Element Name']
+
+=== data/raw/gwas_to_iwas.csv (332 rows)
+['GWA Element ID', 'GWA Element Name', 'IWA Element ID', 'IWA Element Name']
+
+=== data/raw/gwas_to_iwas_to_dwas.csv (2,087 rows)
+['GWA Element ID', 'GWA Element Name', 'IWA Element ID', 'IWA Element Name', 'DWA Element ID', 'DWA Element Name']
+
+=== data/raw/job_titles.csv (57,543 rows)
+['O*NET-SOC Code', 'Title', 'Job Title', 'Short Title', 'Source(s)']
+
+=== data/raw/job_zones.csv (923 rows)
+['O*NET-SOC Code', 'Title', 'Job Zone', 'Date', 'Domain Source']
+
+=== data/raw/knowledge.csv (59,004 rows)
+['O*NET-SOC Code', 'Title', 'Element ID', 'Element Name', 'Scale ID', 'Scale Name', 'Data Value', 'N', 'Standard Error', 'Lower CI Bound', 'Upper CI Bound', 'Recommend Suppress', 'Not Relevant', 'Date', 'Domain Source']
+
+=== data/raw/occupation_data.csv (1,016 rows)
+['O*NET-SOC Code', 'Title', 'Description']
+
+=== data/raw/occupation_level_metadata.csv (32,202 rows)
+['O*NET-SOC Code', 'Title', 'Item', 'Response', 'N', 'Percent', 'Date']
+
+=== data/raw/related_occupations.csv (18,460 rows)
+['O*NET-SOC Code', 'Title', 'Related O*NET-SOC Code', 'Related Title', 'Relatedness Tier', 'Index']
+
+=== data/raw/sample_of_reported_titles.csv (7,953 rows)
+['O*NET-SOC Code', 'Title', 'Reported Job Title', 'Shown in My Next Move']
+
+=== data/raw/scales_reference.csv (32 rows)
+['Scale ID', 'Scale Name', 'Minimum', 'Maximum']
+
+=== data/raw/software_skills.csv (31,821 rows)
+['O*NET-SOC Code', 'Title', 'Workplace Example', 'Element ID', 'Element Name', 'Hot Technology', 'In Demand']
+
+=== data/raw/task_categories.csv (7 rows)
+['Scale ID', 'Scale Name', 'Category', 'Category Description']
+
+=== data/raw/task_ratings.csv (161,559 rows)
+['O*NET-SOC Code', 'Title', 'Task ID', 'Task', 'Scale ID', 'Scale Name', 'Category', 'Data Value', 'N', 'Standard Error', 'Lower CI Bound', 'Upper CI Bound', 'Recommend Suppress', 'Date', 'Domain Source']
+
+=== data/raw/task_statements.csv (18,796 rows)
+['O*NET-SOC Code', 'Title', 'Task ID', 'Task', 'Task Type', 'Incumbents Responding', 'Date', 'Domain Source']
+
+=== data/raw/tasks_to_dwas.csv (23,850 rows)
+['O*NET-SOC Code', 'Title', 'Task ID', 'Task', 'DWA Element ID', 'DWA Element Name', 'Date', 'Domain Source']
+
+=== data/raw/transferable_skills.csv (44,700 rows)
+['O*NET-SOC Code', 'Title', 'Element ID', 'Element Name', 'Scale ID', 'Scale Name', 'Data Value', 'N', 'Standard Error', 'Lower CI Bound', 'Upper CI Bound', 'Recommend Suppress', 'Not Relevant', 'Date', 'Domain Source']
+
+=== data/raw/transferable_skills_to_work_activities.csv (122 rows)
+['Transferable Skills Element ID', 'Transferable Skills Element Name', 'Work Activities Element ID', 'Work Activities Element Name']
+
+=== data/raw/work_activities.csv (73,308 rows)
+['O*NET-SOC Code', 'Title', 'Element ID', 'Element Name', 'Scale ID', 'Scale Name', 'Data Value', 'N', 'Standard Error', 'Lower CI Bound', 'Upper CI Bound', 'Recommend Suppress', 'Not Relevant', 'Date', 'Domain Source']
+
+=== data/raw/esco/ISCOGroups_en.csv (619 rows)
+['conceptType', 'conceptUri', 'code', 'preferredLabel', 'status', 'altLabels', 'inScheme', 'description']
+
+=== data/raw/esco/broaderRelationsOccPillar_en.csv (3,648 rows)
+['conceptType', 'conceptUri', 'conceptLabel', 'broaderType', 'broaderUri', 'broaderLabel']
+
+=== data/raw/esco/broaderRelationsSkillPillar_en.csv (20,819 rows)
+['conceptType', 'conceptUri', 'conceptLabel', 'broaderType', 'broaderUri', 'broaderLabel']
+
+=== data/raw/esco/conceptSchemes_en.csv (20 rows)
+['conceptType', 'conceptSchemeUri', 'preferredLabel', 'title', 'status', 'description', 'hasTopConcept']
+
+=== data/raw/esco/dictionary_en.csv (160 rows)
+['filename', 'data header', 'property', 'description']
+
+=== data/raw/esco/digCompSkillsCollection_en.csv (25 rows)
+['conceptType', 'conceptUri', 'preferredLabel', 'status', 'skillType', 'reuseLevel', 'altLabels', 'description', 'broaderConceptUri', 'broaderConceptPT']
+
+=== data/raw/esco/digitalSkillsCollection_en.csv (1,284 rows)
+['conceptType', 'conceptUri', 'preferredLabel', 'status', 'skillType', 'reuseLevel', 'altLabels', 'description', 'broaderConceptUri', 'broaderConceptPT']
+
+=== data/raw/esco/greenShareOcc_en.csv (3,590 rows)
+['conceptType', 'conceptUri', 'code', 'preferredLabel', 'greenShare']
+
+=== data/raw/esco/greenSkillsCollection_en.csv (629 rows)
+['conceptType', 'conceptUri', 'preferredLabel', 'status', 'skillType', 'reuseLevel', 'altLabels', 'description', 'broaderConceptUri', 'broaderConceptPT']
+
+=== data/raw/esco/languageSkillsCollection_en.csv (359 rows)
+['conceptType', 'conceptUri', 'skillType', 'reuseLevel', 'preferredLabel', 'status', 'altLabels', 'description', 'broaderConceptUri', 'broaderConceptPT']
+
+=== data/raw/esco/occupationSkillRelations_en.csv (126,051 rows)
+['occupationUri', 'occupationLabel', 'relationType', 'skillType', 'skillUri', 'skillLabel']
+
+=== data/raw/esco/occupations_en.csv (3,043 rows)
+['conceptType', 'conceptUri', 'iscoGroup', 'preferredLabel', 'altLabels', 'hiddenLabels', 'status', 'modifiedDate', 'regulatedProfessionNote', 'scopeNote', 'definition', 'inScheme', 'description', 'code', 'naceCode']
+
+=== data/raw/esco/researchOccupationsCollection_en.csv (122 rows)
+['conceptType', 'conceptUri', 'preferredLabel', 'status', 'altLabels', 'description', 'broaderConceptUri', 'broaderConceptPT']
+
+=== data/raw/esco/researchSkillsCollection_en.csv (40 rows)
+['conceptType', 'conceptUri', 'preferredLabel', 'status', 'skillType', 'reuseLevel', 'altLabels', 'description', 'broaderConceptUri', 'broaderConceptPT']
+
+=== data/raw/esco/skillGroups_en.csv (640 rows)
+['conceptType', 'conceptUri', 'preferredLabel', 'altLabels', 'hiddenLabels', 'status', 'modifiedDate', 'scopeNote', 'inScheme', 'description', 'code']
+
+=== data/raw/esco/skillSkillRelations_en.csv (5,818 rows)
+['originalSkillUri', 'originalSkillType', 'relationType', 'relatedSkillType', 'relatedSkillUri']
+
+=== data/raw/esco/skillsHierarchy_en.csv (640 rows)
+['Level 0 URI', 'Level 0 preferred term', 'Level 1 URI', 'Level 1 preferred term', 'Level 2 URI', 'Level 2 preferred term', 'Level 3 URI', 'Level 3 preferred term', 'Description', 'Scope note', 'Level 0 code', 'Level 1 code', 'Level 2 code', 'Level 3 code']
+
+=== data/raw/esco/skills_en.csv (13,960 rows)
+['conceptType', 'conceptUri', 'skillType', 'reuseLevel', 'preferredLabel', 'altLabels', 'hiddenLabels', 'status', 'modifiedDate', 'scopeNote', 'definition', 'inScheme', 'description']
+
+=== data/raw/esco/transversalSkillsCollection_en.csv (95 rows)
+['conceptType', 'conceptUri', 'skillType', 'reuseLevel', 'preferredLabel', 'status', 'altLabels', 'description', 'broaderConceptUri', 'broaderConceptPT']
+
+=== data/raw/30_3_migration_reference.xlsx [excel] sheets=['Terminology Changes', 'File Changes', 'Column Changes', 'Software Categories', 'UNSPSC Crosswalk', 'IWA Crosswalk', 'DWA Crosswalk']
+  sheet 'Terminology Changes': 36 raw rows, first non-empty rows:
+    row 0: ['Listing of Content Model names and descriptions updated in 30.3']
+    row 2: ['30.2 ID', '30.3 Updated ID', '30.2 Name', '30.3 Updated Name', '30.2 Description', '30.3 Updated Description']
+    row 3: ['1', 'Worker Characteristics', 'Worker Characteristics', 'Personal traits and abilities that affect how people learn and perform at work.']
+    row 4: ['1.A', 'Abilities', 'Enduring attributes of the individual that influence performance', 'Natural talents and capabilities that affect how well someone can perform work.']
+    row 5: ['1.B', 'Interests and Work Values', 'Career Interests', 'Preferences for work environments and outcomes', 'Work types and activities you enjoy.']
+    row 6: ['1.B.1', 'General Occupational Interests', 'Career Interest Types', "Preferences for work environments. Occupational Interest Profiles (OIPs) are compatible with Holland's (1997) model of personality types and work environments. Six interest categories are used to describe the work environment of occupations: Realistic, Investigative, Artistic, Social, Enterprising, and Conventional. An OIP consists of six numerical scores indicating how descriptive and characteristic each work environment (or interest area) is for an O*NET-SOC occupation. In addition, a high-point profile has been assigned indicating which interests are most characteristic of an O*NET-SOC occupation. A high-point profile consists of one to three interest codes, depending on how many interest categories meet a minimum degree of descriptiveness for the O*NET-SOC occupation.", 'Broad types of work you enjoy.']
+  sheet 'File Changes': 18 raw rows, first non-empty rows:
+    row 0: ['Listing of files renamed, split into multiple files, or removed in 30.3']
+    row 2: ['30.2 File Name', '30.3 Change Type', '30.3 File Name 1', '30.3 File Name 2']
+    row 3: ['Alternate Titles', 'Renamed', 'Job Titles']
+    row 4: ['Basic Interests to RIASEC', 'Renamed', 'Specific Interest Areas to Career Interest Types']
+    row 5: ['DWA Reference', 'Renamed', 'GWAs to IWAs to DWAs']
+    row 6: ['Education, Training, and Experience', 'Split', 'Education', 'Training and Experience']
+  sheet 'Column Changes': 23 raw rows, first non-empty rows:
+    row 0: ['Listing of changes to column headers in 30.3']
+    row 2: ['30.3 File Name', '30.2 Column Name', '30.3 Column Name']
+    row 3: ['GWAs to IWAs', 'Element ID', 'GWA Element ID']
+    row 4: ['GWAs to IWAs', 'Element Name', 'GWA Element Name']
+    row 5: ['GWAs to IWAs', 'IWA ID', 'IWA Element ID']
+    row 6: ['GWAs to IWAs', 'IWA Title', 'IWA Element Name']
+  sheet 'Software Categories': 154 raw rows, first non-empty rows:
+    row 0: ['Listing of software skill categories and descriptions added to the Content Model in 30.3']
+    row 2: ['Parent Category', 'Element ID', 'Element Name', 'Element Description']
+    row 3: ['2.E.1', 'Business function specific software', 'Software to manage business operations, including project management, sales, or logistics.']
+    row 4: ['2.E.1', '2.E.1.a', 'Helpdesk or call center software', 'Software to enable help desk or call center operations.']
+    row 5: ['2.E.1', '2.E.1.b', 'Procurement software', 'Software to manage contracts or agreements with suppliers, negotiate conditions, or buy products or services.']
+    row 6: ['2.E.1', '2.E.1.c', 'Human resources software', 'Software to manage employee evaluations, track wages or absenteeism, maintain safety records, or manage hours or time off.']
+  sheet 'UNSPSC Crosswalk': 137 raw rows, first non-empty rows:
+    row 0: ['Crosswalk: 30.2 UNSPSC Reference to 30.3 Content Model Reference']
+    row 2: ['30.2 Commodity Code', '30.3 Element ID', 'Commodity Title', '30.3 Commodity Description', '30.2 Class Code', '30.3 Element ID', 'Class Title', '30.3 Class Description']
+    row 3: ['43231501', '2.E.1.a', 'Helpdesk or call center software', 'Software to enable help desk or call center operations.', '43231500', '2.E.1', 'Business function specific software', 'Software to manage business operations, including project management, sales, or logistics.']
+    row 4: ['43231503', '2.E.1.b', 'Procurement software', 'Software to manage contracts or agreements with suppliers, negotiate conditions, or buy products or services.', '43231500', '2.E.1', 'Business function specific software', 'Software to manage business operations, including project management, sales, or logistics.']
+    row 5: ['43231505', '2.E.1.c', 'Human resources software', 'Software to manage employee evaluations, track wages or absenteeism, maintain safety records, or manage hours or time off.', '43231500', '2.E.1', 'Business function specific software', 'Software to manage business operations, including project management, sales, or logistics.']
+    row 6: ['43231506', '2.E.1.d', 'Materials requirements planning logistics and supply chain software', 'Software to manage, monitor, or optimize the flow of goods or services from an origin point to a destination.', '43231500', '2.E.1', 'Business function specific software', 'Software to manage business operations, including project management, sales, or logistics.']
+  sheet 'IWA Crosswalk': 335 raw rows, first non-empty rows:
+    row 0: ['Crosswalk: 30.2 IWA Reference to 30.3 Content Model Reference']
+    row 2: ['30.2 IWA ID', '30.3 Element ID', 'IWA Title']
+    row 3: ['4.A.1.a.1.I01', '4.A.1.a.1.a', 'Study details of artistic productions.']
+    row 4: ['4.A.1.a.1.I02', '4.A.1.a.1.b', 'Read documents or materials to inform work processes.']
+    row 5: ['4.A.1.a.1.I03', '4.A.1.a.1.c', 'Investigate criminal or legal matters.']
+    row 6: ['4.A.1.a.1.I04', '4.A.1.a.1.d', 'Gather information from physical or electronic sources.']
+  sheet 'DWA Crosswalk': 2,090 raw rows, first non-empty rows:
+    row 0: ['Crosswalk: 30.2 DWA Reference to 30.3 Content Model Reference']
+    row 2: ['30.2 DWA ID', '30.3 Element ID', 'DWA Title']
+    row 3: ['4.A.1.a.1.I01.D01', '4.A.1.a.1.a.1', 'Review art or design materials.']
+    row 4: ['4.A.1.a.1.I01.D02', '4.A.1.a.1.a.2', 'Study details of musical compositions.']
+    row 5: ['4.A.1.a.1.I01.D03', '4.A.1.a.1.a.3', 'Review production information to determine costume or makeup requirements.']
+    row 6: ['4.A.1.a.1.I01.D04', '4.A.1.a.1.a.4', 'Study scripts to determine project requirements.']
+
+=== data/raw/soc_2010_to_2018_crosswalk.xlsx [excel] sheets=['Sorted by 2010']
+  sheet 'Sorted by 2010': 909 raw rows, first non-empty rows:
+    row 0: ['U.S. Bureau of Labor Statistics']
+    row 1: ['On behalf of the Office of Management and Budget (OMB) and the Standard Occupational Classification Policy Committee (SOCPC)']
+    row 3: ['November 2017']
+    row 5: ['***Questions should be emailed to soc@bls.gov***']
+    row 8: ['2010 SOC Code', '2010 SOC Title', '2018 SOC Code', '2018 SOC Title']
+    row 9: ['11-1011', 'Chief Executives', '11-1011', 'Chief Executives']
+
+=== data/raw/ISCO_SOC_Crosswalk.xls [excel] sheets=['ISCO-08 to 2010 SOC', '2010 SOC to ISCO-08']
+  sheet 'ISCO-08 to 2010 SOC': 1,132 raw rows, first non-empty rows:
+    row 0: ['Bureau of Labor Statistics']
+    row 1: ['On behalf of the Standard Occupational Classification Policy Committee (SOCPC)']
+    row 3: ['August 2012 (Updated June 2015)']
+    row 4: ['Questions should be emailed to soc@bls.gov']
+    row 6: ['ISCO-08 Code', 'ISCO-08 Title EN', 'part', '2010 SOC Code', '2010 SOC Title', 'Comment 8/17/11']
+    row 7: ['0110', 'Commissioned armed forces officers', '*', '55-1011 ', 'Air Crew Officers']
+  sheet '2010 SOC to ISCO-08': 1,132 raw rows, first non-empty rows:
+    row 0: ['Bureau of Labor Statistics']
+    row 1: ['On behalf of the Standard Occupational Classification Policy Committee (SOCPC)']
+    row 3: ['August 2012 (Updated June 2015)']
+    row 4: ['Questions should be emailed to soc@bls.gov']
+    row 6: ['2010 SOC Code', '2010 SOC Title', 'part', 'ISCO-08 Code', 'ISCO-08 Title EN', 'Comment 8/17/11']
+    row 7: ['11-1011', 'Chief Executives', '*', '1112', 'Senior government officials']
+
+=== data/raw/Tools Used.txt (41,662 rows) [tsv]
+['O*NET-SOC Code', 'Example', 'Commodity Code', 'Commodity Title']
+
+========================================================================
+JOIN KEY CHECKLIST (must match exactly)
+========================================================================
+tasks_to_dwas.csv: OK
+gwas_to_iwas_to_dwas.csv: OK
+essential_skills_to_work_activities.csv: OK
+transferable_skills_to_work_activities.csv: OK
+task_statements.csv: OK
+essential_skills.csv: OK
+transferable_skills.csv: OK
