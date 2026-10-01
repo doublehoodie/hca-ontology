@@ -208,8 +208,8 @@ The file also contains a small set of **example named individuals** (e.g. `Softw
 | Day 2 — five-occupation slice + task→skill chain | Done (`task_skill_derived.csv`, 610 edges) |
 | Edge quality hand audit (`docs/edge_audit.md`) | Partially scored (P/I/G on 10-task sample; some cells still blank) |
 | Crosswalk Call #1 (Data Scientists mapping) | **Open** — evidence in `docs/crosswalk.md`; decision cells blank |
+| Call #2 (O\*NET vs ESCO essential semantics) | **Decided (a)** — see [`docs/call_decisions.md`](docs/call_decisions.md); `onetSkillCategory` in schema |
 | Day 3 — Protégé schema | `ontology/schema.ttl` present |
-| Day 4 — populate individuals from slice / reasoner | **Not started** (no `scripts/03_populate.py` in repo) |
+| Day 4 — populate individuals from slice / reasoner | Done — `ontology/populated.owl` via [`scripts/03_populate.py`](scripts/03_populate.py) (O\*NET-only; HermiT consistent in-script) |
+| Call #3 (derived-edge trust / thresholds) | **Open** — populate accepted all structural edges (runbook (a) default) |
 | Day 5 — CQ validation / demo | **Not started** |
-
-Open judgment calls from the runbook that still need the author (not automated): Call #1 (Data Scientists ESCO/ISCO mapping), Call #2 (O\*NET essential/transferable vs ESCO essential/optional), Call #3 (how much to trust / threshold derived edges).

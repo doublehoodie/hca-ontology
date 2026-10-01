@@ -133,6 +133,14 @@
             rdfs:range xsd:float .
 
 
+###  http://hcaontology.org/yanzhou/ontologies/onetSkillCategory
+# O*NET skill *type* (essential vs transferable). Distinct from ESCO
+# occupation-necessity properties requiresEssentialSkill / requiresOptionalSkill.
+# Call #2 decision (a): keep both distinctions; do not conflate.
+:onetSkillCategory rdf:type owl:DatatypeProperty ;
+                   rdfs:range xsd:string .
+
+
 ###  http://hcaontology.org/yanzhou/ontologies/socCode
 :socCode rdf:type owl:DatatypeProperty ;
          rdfs:range xsd:string .
